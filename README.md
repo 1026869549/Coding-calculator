@@ -4,7 +4,8 @@ Its a calculator about arithmetic coding, shannon-fano coding, huffman coding, a
 这是一个不完整的编码计算器。
 它现在的版本是v0.4
 ————————————————————————
-about：
+
+about the calculator：
 
 Arithmetic coding: u can just input a string, and u will get the Binary code. And calculation process absolutely.
 
